@@ -1,0 +1,76 @@
+
+
+Version:	3.9
+CmdLine:	C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\launch (windows).exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Ignore:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_112
+Ignore:		1.8.0_112
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_112
+Ignore:		1.8.0_112
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	Please make sure that you have JRE (Java) 8.0.0 - 9.0.0
+Open URL:	http://java.com/download
+
+
+Version:	3.9
+CmdLine:	C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\launch (windows).exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_112
+Check launcher:	C:\Program Files\Java\jre1.8.0_112\bin\javaw.exe (OK)
+Match:		1.8.0_112
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_112
+Ignore:		1.8.0_112
+Runtime used:	1.8.0_112 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_112\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\launch (windows).exe"
+Args length:	114/32768 chars
+Exit code:	0
+
+
+Version:	3.9
+CmdLine:	C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\launch.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_112
+Check launcher:	C:\Program Files\Java\jre1.8.0_112\bin\javaw.exe (OK)
+Match:		1.8.0_112
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_112
+Ignore:		1.8.0_112
+Runtime used:	1.8.0_112 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_112\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Vincent\Desktop\Random code\Random Java\IceCream Counter\out\artifacts\UB_jar\launch.exe"
+Args length:	104/32768 chars
+Exit code:	0

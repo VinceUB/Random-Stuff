@@ -1,0 +1,16 @@
+Make sure you have the lastest version of Java installed
+
+WINDOWS:
+Double press "launch (windows).exe"
+If you for some reason want to use the mac version, you need to download Git Bash, or any other program that can run .sh files
+
+MAC:
+You need to be able to use .sh file
+HOW TO RUN .SH FILES
+1. Open Finder
+2. Right click "launch (mac).exe
+3. Select Open With
+4. Open it with Terminal (More... -> All Applications -> Utilities)
+
+LINUX:
+Who uses Linux anyway?
